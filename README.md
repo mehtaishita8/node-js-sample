@@ -1,4 +1,4 @@
-# node-js-sample
+# node-js-sample test pipelines
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
